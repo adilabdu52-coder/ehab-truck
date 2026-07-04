@@ -1,0 +1,12 @@
+{
+  "name": "ehab-truck",
+  "version": "1.0.0",
+  "description": "Ehab Truck - East Africa Freight Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
